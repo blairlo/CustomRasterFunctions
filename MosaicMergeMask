@@ -1,22 +1,3 @@
----
-authors:
-- admin
-categories: []
-date: "2021-02-05T00:00:00Z"
-image:
-  caption: ""
-  focal_point: ""
-lastMod: "2021-09-05T00:00:00Z"
-projects: []
-subtitle: ''
-summary: ''
-tags: []
-title: Composit and Mask Satellite Data in R
-weight: 2
----
-
-
-
 
 There are several challenges when using satellite data across large areas: multiple tiles or "scenes" make up the study area, and clouds, haze, and other atmospheric factors will render pixels unusable. The following steps apply a series of masking, mosaicing, and merging to convert multiple scenes to seamless, usable, imagery.
 
